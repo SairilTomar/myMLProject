@@ -19,5 +19,7 @@ logging.basicConfig(
     level=logging.INFO,
 
 )
+#these commented lines are not needed
 if __name__=="__main__":
+
     logging.info("Logging has started")
